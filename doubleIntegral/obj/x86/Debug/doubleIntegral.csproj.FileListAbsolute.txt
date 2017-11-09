@@ -1,0 +1,10 @@
+c:\users\jscjs\onedrive\documents\visual studio 2010\Projects\doubleIntegral\doubleIntegral\bin\Debug\doubleIntegral.exe
+c:\users\jscjs\onedrive\documents\visual studio 2010\Projects\doubleIntegral\doubleIntegral\bin\Debug\doubleIntegral.pdb
+c:\users\jscjs\onedrive\documents\visual studio 2010\Projects\doubleIntegral\doubleIntegral\obj\x86\Debug\doubleIntegral.exe
+c:\users\jscjs\onedrive\documents\visual studio 2010\Projects\doubleIntegral\doubleIntegral\obj\x86\Debug\doubleIntegral.pdb
+C:\Users\jscjs\onedrive\documents\visual studio 2010\Projects\doubleIntegral\doubleIntegral\obj\x86\Debug\doubleIntegral.csprojResolveAssemblyReference.cache
+C:\Users\jscjs\OneDrive\Documents\Visual Studio 2015\Projects\doubleIntegral\doubleIntegral\obj\x86\Debug\doubleIntegral.exe
+C:\Users\jscjs\OneDrive\Documents\Visual Studio 2015\Projects\doubleIntegral\doubleIntegral\obj\x86\Debug\doubleIntegral.pdb
+C:\Users\jscjs\OneDrive\Documents\Visual Studio 2015\Projects\doubleIntegral\doubleIntegral\bin\Debug\doubleIntegral.exe
+C:\Users\jscjs\OneDrive\Documents\Visual Studio 2015\Projects\doubleIntegral\doubleIntegral\bin\Debug\doubleIntegral.pdb
+C:\Users\jscjs\OneDrive\Documents\Visual Studio 2015\Projects\doubleIntegral\doubleIntegral\obj\x86\Debug\doubleIntegral.csprojResolveAssemblyReference.cache
